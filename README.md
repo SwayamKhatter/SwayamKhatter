@@ -11,8 +11,8 @@
 <div align="">
   <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" align="right" width="400" alt="Coding GIF">
  <pre>
-    🎓 BTech CSE-AI/ML @ University of Engineering and Management, Jaipur
-    🌐 Web Development • UI/UX Design • Cloud Computing • Machine Learning
+    🎓 BTech CSE @ University of Engineering and Management, Jaipur
+    🌐 Web Development • Machine Learning
     🛠️ Enthusiast of Cutting-edge Technologies
     🎮 Loves Music, Games, Anime, Coding, and Art
     📫 How to reach me: khatterswayam@gmail.com
@@ -53,9 +53,10 @@
 </div>
 
 ---
-
+/*
 ### 💰 Support My Work:
 <div align="center">
   <a href="https://buymeacoffee.com/SwayamKhatter"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
   <a href="https://paypal.me/SwayamKhatter"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
 </div>
+*/
