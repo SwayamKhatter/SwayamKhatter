@@ -53,10 +53,9 @@
 </div>
 
 ---
-/*
+
 ### 💰 Support My Work:
 <div align="center">
-  <a href="https://buymeacoffee.com/SwayamKhatter"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
   <a href="https://paypal.me/SwayamKhatter"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"/></a>
 </div>
-*/
+
