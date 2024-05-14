@@ -46,9 +46,10 @@
 ---
 
 ### 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwayamKhatter&show_icons=true&theme=tokyonight" align="center" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SwayamKhatter&theme=tokyonight" align="center" />
+<div align="">
+
+   <a> <img  src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="150" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></a>
+  <img align='right' src="https://github-readme-streak-stats.herokuapp.com/?user=SwayamKhatter&theme=tokyonight" align="center" />
 </div>
 
 ---
